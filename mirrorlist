@@ -1,0 +1,11 @@
+##
+## Best Arch Linux repository mirrorlist for India
+## Generated on 2023-10-31
+##
+
+## Worldwide
+Server = http://in-mirror.garudalinux.org/archlinux/$repo/os/$arch
+Server = https://in-mirror.garudalinux.org/archlinux/$repo/os/$arch
+Server = http://mirror.sunred.org/archlinux/$repo/os/$arch
+Server = https://mirror.pseudoform.org/$repo/os/$arch
+Server = https://seoul.mirror.pkgbuild.com/$repo/os/$arch
